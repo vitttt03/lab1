@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "910048105911",
+    "firebase_url": "https://demorn-86861-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demorn-86861",
+    "storage_bucket": "demorn-86861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910048105911:android:28a2da1a8e39c7fe1c0432",
+        "android_client_info": {
+          "package_name": "com.example.hihi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeijmx0SVFb7VNEGjkx5tbcKINrQXSf1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910048105911:android:e3082f0b611b389d1c0432",
+        "android_client_info": {
+          "package_name": "com.example.yourapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeijmx0SVFb7VNEGjkx5tbcKINrQXSf1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
